@@ -1,5 +1,5 @@
 # webapp-slowness
-Azure App Service application slow
+Azure App Service application slow <br>
 This is the Lab for investigating application slowness issues deployed in Azure App Service. 
 
 ## Scenario:
