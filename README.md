@@ -10,7 +10,7 @@ In this lab, you will need to
 
 ## Goal:
 -	Is to deploy the app to Azure. Reproduce the issue by opening multiple tabs and navigate to FeatureProducts.aspx page. The more tabs you have open, you will see the pages start to spin and delay in cont rendering. 
--	To capture profiler trace, navigate to the app service in the portal. Under **Diagnose and Solve problem**--> **Diagnostic tools** --> click on **Collect Network Trace** and reproduce the issue.
+-	To capture profiler trace, navigate to the app service in the portal. Under **Diagnose and Solve problem**--> **Diagnostic tools** --> click on **Collect .Net Profiler trace** and reproduce the issue.
 Image:
 ![](https://github.com/4lowtherabbit/Labwebappslow/blob/master/imag.png)
 
