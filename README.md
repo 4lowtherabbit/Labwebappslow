@@ -10,8 +10,8 @@ In this lab, you will need to
 
 ## Goal:
 -	Is to deploy the app to Azure. Reproduce the issue by opening multiple tabs and navigate to FeatureProducts.aspx page. The more tabs to have open, you will see the pages starts to spin and take times to render the content. 
--	To investigate the application slowness issue, navigate to the app service in the portal. Under Diagnose and Solve problem --> Diagnostic tools--> click on Collect Network Trace and reproduce the issue.
--	
+-	To investigate the application slowness issue, navigate to the app service in the portal.Under Diagnose and Solve problem --> Diagnostic tools--> click on Collect Network Trace and reproduce the issue.
+
 ## Deployment Instructions:
 1.	Click on the “Deploy to Azure” button. 
    This will open a new browser window and navigate to the Azure Deployment Page. <br>
