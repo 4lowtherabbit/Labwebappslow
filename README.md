@@ -5,12 +5,12 @@ This is the Lab for investigating application slowness issues deployed in Azure 
 ## Scenario:
 In this lab, you will need to 
 - Deploy the application code to an App Service. 
-- Enable Application Insights for the app service.
-- Capture profiler traces to investigate the issue and to find the root cause. 
+- Enable Application Insights.
+- Capture profiler traces to investigate the issue and to find out the root cause. 
 
 ## Goal:
--	Is to deploy the app to Azure. Reproduce the issue by opening multiple tabs and navigate to FeatureProducts.aspx page. The more tabs to have open, you will see the pages starts to spin and take times to render the content. 
--	To investigate the application slowness issue, navigate to the app service in the portal.Under Diagnose and Solve problem --> Diagnostic tools--> click on Collect Network Trace and reproduce the issue.
+-	Is to deploy the app to Azure. Reproduce the issue by opening multiple tabs and navigate to FeatureProducts.aspx page. The more tabs you have open, you will see the pages start to spin and delay in cont rendering. 
+-	To capture profiler trace, navigate to the app service in the portal. Under **Diagnose and Solve problem**--> **Diagnostic tools** --> click on **Collect Network Trace** and reproduce the issue.
 Image:
 ![](https://github.com/4lowtherabbit/Labwebappslow/blob/master/imag.png)
 
