@@ -133,7 +133,7 @@ public class DataLayer
         lock (syncobj)
         {
             //faking a long running query to the database
-            Thread.Sleep(5000);
+            Thread.Sleep(300000);
             
             //populate a table with the featured products
             DataTable dt = new DataTable();
