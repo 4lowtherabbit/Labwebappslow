@@ -15,12 +15,6 @@ Image:
 ![](https://github.com/4lowtherabbit/Labwebappslow/blob/master/imag.png)
 
 ## Deployment Instructions:
-1.	Click on the “Deploy to Azure” button. 
-   This will open a new browser window and navigate to the Azure Deployment Page. <br>
-2.	Choose your subscription and fill in other content <br>
-3.	Click on "Deploy". <br>
-
-## Deployment Link:
-<a href="https://deploy.azure.com?repository=https://github.com/4lowtherabbit/Labwebappslow" target="_blank">
-    <img src="https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/deploybutton.png"/>
-</a> 
+1.	Clone the repository to local.   
+2.	Open the solution in Visual Studio.
+3.	Publish it to Azure.
