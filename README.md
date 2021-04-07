@@ -15,5 +15,4 @@ Image:
 ![](https://github.com/4lowtherabbit/Labwebappslow/blob/master/imag.png)
 
 ## Deployment Instructions:
-1.	Download the solution as a zip file to local.   
-2.	Drag & drop the zip file to the wwwroot folder of an empty site to deploy it.
+Click this ![Deploy link](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2F4lowtherabbit%2FLabwebappslow%2Fmaster%2Fazuredeploy.json)
