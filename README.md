@@ -15,4 +15,4 @@ Image:
 ![](https://github.com/4lowtherabbit/Labwebappslow/blob/master/imag.png)
 
 ## Deployment Instructions:
-Click this ![Deploy link](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2F4lowtherabbit%2FLabwebappslow%2Fmaster%2Fazuredeploy.json)
+Click this [Deploy link](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2F4lowtherabbit%2FLabwebappslow%2Fmaster%2Fazuredeploy.json)
