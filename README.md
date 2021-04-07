@@ -15,6 +15,5 @@ Image:
 ![](https://github.com/4lowtherabbit/Labwebappslow/blob/master/imag.png)
 
 ## Deployment Instructions:
-1.	Clone the repository to local.   
-2.	Open the solution in Visual Studio.
-3.	Publish it to Azure.
+1.	Download the solution as a zip file to local.   
+2.	Drag & drop the zip file to the wwwroot folder of an empty site to deploy it.
